@@ -1,4 +1,6 @@
 # LearningGit
-This is a repo for UECS2363 Practical 3-6
-This line is added after cloning the repo using Git in my own workstation
-Added a line without internet connectivity.
+
+This is a repo for UECS2363 Practical 4-6
+This line is added after cloning the repo for Practical5 using Git in my own workstation
+
+
